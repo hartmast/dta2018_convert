@@ -1,4 +1,4 @@
-# convert_dta2018
+# dta2018_convert
 
 This repository contains scripts to convert the DTA/TEI data to CWB. Courtesy of Susanne Flach (Université de Neuchâtel) and Anatol Stefanowitsch (FU Berlin), redistributed with minor modifications under GNU GPL license. 
 
