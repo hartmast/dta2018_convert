@@ -1,13 +1,9 @@
 ## assuming all tcf files are in a folder 'files'. If not, uncomment
 ## the lines below and run on tcf.zip folder as downloaded from website
 # mkdir files
-# unzip dta_komplett_2017-09-01_tcf.zip
-# mv dta_komplett_2017-09-01/full files/
-# rm -r dta_komplett_2017-09-01
-# one file is without meta data in the download, so use the file
-# downloaded from the website, which is in folder newfiles/:
-# (apparently fixed in 2018 edition, hence commented out)
-# cp newfiles/haller_anfangsgruende06_1774.tcf.xml files/haller_anfangsgruende06_1774.tcf.xml
+# unzip dta_komplett_2018-10-17_tcf.zip
+# mv dta_komplett_2018-10-17/full files/
+# rm -r dta_komplett_2018-10-17
 
 # if short on disc space, uncomment the lines below that remove the files
 # created in the process. I left them in so that quality control becomes easier
