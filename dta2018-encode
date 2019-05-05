@@ -1,0 +1,2 @@
+cwb-encode -c utf8 -v -d /corpora/data -f /Users/stefanhartmann/Documents/Korpora_fuer_CQP/dta2018_convert/dta2018.vrt -R /usr/local/share/cwb/registry/dta2018 -P norm -P lemma -P pos -P tokid -S s:0+id+no -S file:0+id+dtaid+year+century+decade+year_pub+year_creat+genre+author+title+sup_title+pub_place+publisher+genre_dta+subgenre_dta+genre_dwds+subgenre_dwds+types+tokens+pages+urn+url+licence+dta_collection+dta_release+dta_digitalization
+cwb-make -V DTA2018
